@@ -93,7 +93,7 @@ int main()
 				dequeue();
 				break;
 			case 3:
-				printf("\nYOUR STACK IS \n");
+				printf("\nYOUR QUEUE IS \n");
 				display();
 				break;
 			case 4:
