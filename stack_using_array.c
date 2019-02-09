@@ -93,6 +93,7 @@ int main()
 			case 3:
 				printf("\nYOUR STACK IS \n");
 				display();
+				break;
 			case 4:
 				exit(0);
 				break;
@@ -100,4 +101,5 @@ int main()
 				printf("\nsorry wrong input");
 		}
 	}
+	return(0);
 }
